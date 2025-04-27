@@ -25,8 +25,7 @@
 
 <h2>Как запустить проект локально:</h2>
 <br><li>Клонируйте репозиторий:</li>
-git clone https://github.com/your-username/your-repo-name.git
-
+git clone https://github.com/Max-gen1956/dublicate.git
 <li>Перейдите в папку проекта:</li>
 cd your-repo-name
 <br><li>Откройте файл index.html в браузере напрямую
