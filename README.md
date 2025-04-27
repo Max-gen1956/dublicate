@@ -27,7 +27,7 @@
 <br><li>Клонируйте репозиторий:</li>
 git clone https://github.com/Max-gen1956/dublicate.git
 <li>Перейдите в папку проекта:</li>
-cd your-repo-name
+cd kinza_web
 <br><li>Откройте файл index.html в браузере напрямую
 или запустите локальный сервер
 </li>
